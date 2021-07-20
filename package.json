@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "name": "curso-webpack-react",
+  "description": "Curso de Webpack en Platzi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Managall/curso-webpack-react.git"
+  },
+  "keywords": [
+    "webpack",
+    "platzi",
+    "curso"
+  ],
+  "author": "Marcio Najarro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Managall/curso-webpack-react/issues"
+  },
+  "homepage": "https://github.com/Managall/curso-webpack-react#readme"
+}
